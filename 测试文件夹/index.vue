@@ -1,2 +1,1 @@
-Vue.component
-console.log(123333333);
+Vue.component(id, [definition])
